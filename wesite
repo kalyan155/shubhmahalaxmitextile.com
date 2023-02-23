@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cloth Shop Website Template</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Cloth Shop</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Men</a></li>
+				<li><a href="#">Women</a></li>
+				<li><a href="#">Kids</a></li>
+				<li><a href="#">Sale</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Featured Products</h2>
+			<div class="product-container">
+				<div class="product">
+					<img src="product1.jpg" alt="Product 1">
+					<h3>Product 1</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis tincidunt mauris, at facilisis urna. Aliquam non tincidunt enim.</p>
+					<button>Add to Cart</button>
+				</div>
+				<div class="product">
+					<img src="product2.jpg" alt="Product 2">
+					<h3>Product 2</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis tincidunt mauris, at facilisis urna. Aliquam non tincidunt enim.</p>
+					<button>Add to Cart</button>
+				</div>
+				<div class="product">
+					<img src="product3.jpg" alt="Product 3">
+					<h3>Product 3</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis tincidunt mauris, at facilisis urna. Aliquam non tincidunt enim.</p>
+					<button>Add to Cart</button>
+				</div>
+			</div>
+		</section>
+		<section>
+			<h2>Latest Products</h2>
+			<div class="product-container">
+				<div class="product">
+					<img src="product4.jpg" alt="Product 4">
+					<h3>Product 4</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis tincidunt mauris, at facilisis urna. Aliquam non tincidunt enim.</p>
+					<button>Add to Cart</button>
+				</div>
+				<div class="product">
+					<img src="product5.jpg" alt="Product 5">
+					<h3>Product 5</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis tincidunt mauris, at facilisis urna. Aliquam non tincidunt enim.</p>
+					<button>Add to Cart</button>
+				</div>
+				<div class="product">
+					<img src="product6.jpg" alt="Product 6">
+					<h3>Product 6</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis tincidunt mauris, at facilisis urna. Aliquam non tincidunt enim.</p>
+					<button>Add to Cart</button>
+				</div>
+			
